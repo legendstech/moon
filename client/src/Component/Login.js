@@ -13,7 +13,7 @@ export default function Login(){
     const navigate = useNavigate();
 
     const gotoregister = () => {
-        // navigate('/register',{replace:true})
+     navigate ('/Registration')
     }
 
 
